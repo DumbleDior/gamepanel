@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tag {
+  text-align: center;
+  color: gray;
+  font-size: smaller;
+}
+
+.farbe-verlierer {
+  color: gray;
+}
